@@ -1,0 +1,21 @@
+{
+    "name": "b-w",
+    "displayName": "b&w",
+    "description": "Black and white theme. Literally as few frills as possible.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Black & White",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Black & White-color-theme.json"
+            }
+        ]
+    }
+}
