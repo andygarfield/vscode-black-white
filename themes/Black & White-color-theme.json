@@ -15,7 +15,14 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#cccccc",
     "editorError.foreground": "#956363",
     "editorWarning.foreground": "#b4aa88",
-    "editorInfo.foreground": "#7d82ca"
+    "editorInfo.foreground": "#7d82ca",
+    "gitDecoration.addedResourceForeground": "#75f486",
+    "gitDecoration.modifiedResourceForeground": "#aec2fb",
+    "gitDecoration.deletedResourceForeground": "#fc8888",
+    "gitDecoration.renamedResourceForeground": "#ffd08a",
+    "gitDecoration.untrackedResourceForeground": "#c694ff",
+    "list.warningForeground": "#fdfd9dd2",
+    "list.errorForeground": "#ff9c9c"
   },
   "tokenColors": [
     {
